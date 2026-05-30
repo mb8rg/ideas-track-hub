@@ -1,0 +1,5 @@
+hub IDEAS_Epigenomics_Hub
+shortLabel IDEAS Hub
+longLabel IDEAS Epigenomics Track Hub for mm10
+genomesFile genomes.txt
+email mb8rg@virginia.edu
