@@ -1,5 +1,5 @@
 track test_track_name
-bigDataUrl test_H3K4me1.bw
-shortLabel test_H3K4me1
-longLabel example H3K4me1 CUT&Tag data
+bigDataUrl test_H3K4me3.bw
+shortLabel test_H3K4me3
+longLabel example H3K4me3 CUT&Tag data
 type bigWig
