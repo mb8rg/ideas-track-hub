@@ -3,7 +3,7 @@ priority 1
 type bigBed 9 .
 itemRgb on
 maxItems 100000
-bigDataUrl https://github.com/mb8rg/ideas-track-hub/tree/main/hg38/histone_marks_S3V2_IDEAS.1.bb
+bigDataUrl https://github.com/mb8rg/ideas-track-hub/tree/main/test1/histone_marks_S3V2_IDEAS.1.bb
 shortLabel AVERAGE
 longLabel histone_marks_S3V2_IDEAS AVERAGE
 color 0,0,0
@@ -14,7 +14,7 @@ priority 2
 type bigBed 9 .
 itemRgb on
 maxItems 100000
-bigDataUrl https://github.com/mb8rg/ideas-track-hub/tree/main/hg38/histone_marks_S3V2_IDEAS.2.bb
+bigDataUrl https://github.com/mb8rg/ideas-track-hub/tree/main/test1/histone_marks_S3V2_IDEAS.2.bb
 shortLabel HD_3708_HD
 longLabel histone_marks_S3V2_IDEAS HD_3708_HD
 color 0,0,0
@@ -25,7 +25,7 @@ priority 3
 type bigBed 9 .
 itemRgb on
 maxItems 100000
-bigDataUrl https://github.com/mb8rg/ideas-track-hub/tree/main/hg38/histone_marks_S3V2_IDEAS.3.bb
+bigDataUrl https://github.com/mb8rg/ideas-track-hub/tree/main/test1/histone_marks_S3V2_IDEAS.3.bb
 shortLabel TLGL_2042_TLGLL
 longLabel histone_marks_S3V2_IDEAS TLGL_2042_TLGLL
 color 0,0,0
