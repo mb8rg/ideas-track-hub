@@ -1,0 +1,5 @@
+hub histone_marks_S3V2_IDEAS
+shortLabel histone_marks_S3V2_IDEAS
+longLabel histone_marks_S3V2_IDEAS
+genomesFile genomes_histone_marks_S3V2_IDEAS.txt
+email mb8rg@virginia.edu
